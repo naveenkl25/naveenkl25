@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naveenkl25
+- 👋 Hi, I’m Naveen Kumar Lakshman,
 - 👀 I'm a aspiring devops engineer having the expertise in the field of linux,cloud,sql.
 - 🌱 I’m currently learning on automation,CI/CD pipeline and all the emerging technologies.
 - 💞️ I’m looking to collaborate on various personalities in the field of cloud, devops.
